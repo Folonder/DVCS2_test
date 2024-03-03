@@ -69,5 +69,5 @@ if __name__ == "__main__":
     for cell in path:
         x, y = cell
         maze.grid[y][x] = 2
-    print(maze)
+
 
