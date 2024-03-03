@@ -1,4 +1,4 @@
-import random
+import random # new first change (3)
 import heapq
 
 class David:
