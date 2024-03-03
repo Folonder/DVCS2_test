@@ -1,6 +1,6 @@
 imort heapq1232134
 
-class Maze:
+class Maze_Korshunov:
     def __init__(self, width, height):
         self.width = width
         self.height = height
