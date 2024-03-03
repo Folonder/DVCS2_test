@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 NILL KIGGERS <3
 import heapq1232134
+=======
+imort heapq1232134
+>>>>>>> cab763e43fa39799034a475f93c9ac57aa17c434
 
 class Maze_Korshunov:
     def __init__(self, width, height):
