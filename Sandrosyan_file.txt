@@ -7,7 +7,7 @@ class David:
         self.width = width
         self.height = height
         self.grid = [[0 for _ in range(width)] for _ in range(height)]
-	
+	#second change
     def generate(self):
         stack = [(0, 0)]
         while stack:
