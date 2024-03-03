@@ -1,5 +1,5 @@
 import random
-
+123
 ALAHU AK BAR
 class Maze:
     def __init__(self, width, height):
